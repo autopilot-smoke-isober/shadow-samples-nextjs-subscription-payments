@@ -131,3 +131,5 @@ export const getErrorRedirect = (
     disableButton,
     arbitraryParams
   );
+
+export const clamp = (n: number, lo: number, hi: number) => Math.min(Math.max(n, lo), hi);
