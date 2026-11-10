@@ -16,3 +16,5 @@ export const stripe = new Stripe(
     }
   }
 );
+
+// shadow sample
