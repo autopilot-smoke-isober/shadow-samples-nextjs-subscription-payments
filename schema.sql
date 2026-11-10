@@ -143,3 +143,4 @@ create policy "Can only view own subs data." on subscriptions for select using (
  */
 drop publication if exists supabase_realtime;
 create publication supabase_realtime for table products, prices;
+-- shadow sample
