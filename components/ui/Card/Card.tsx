@@ -23,3 +23,5 @@ export default function Card({ title, description, footer, children }: Props) {
     </div>
   );
 }
+
+// shadow sample
