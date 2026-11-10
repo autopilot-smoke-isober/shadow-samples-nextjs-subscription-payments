@@ -266,3 +266,5 @@ To verify you are running in production mode, test checking out with the [Stripe
 <!-- autopilot smoke sample 2026-10-28T1953Z -->
 
 Shadow sample note.
+
+Another note.
